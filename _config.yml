@@ -1,0 +1,8 @@
+title: ACT Government Contracts 2025
+description: Inside $1.64 Billion - The Story of ACT Government Spending
+theme: jekyll-theme-minimal
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

@@ -8,6 +8,10 @@
 !README.md
 !LICENSE
 !index.md
+!_config.yml
+!_layouts/
+_layouts/*
+!_layouts/*.html
 
 # 2025 Data ONLY
 !data/
