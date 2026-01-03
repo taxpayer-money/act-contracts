@@ -1,0 +1,19 @@
+# EXCLUDE EVERYTHING BY DEFAULT
+*
+
+# THEN EXPLICITLY INCLUDE ONLY WHAT WE WANT TO SHARE
+
+# Git files
+!.gitignore
+!README.md
+!LICENSE
+
+# 2025 Data ONLY
+!data/
+data/*
+!data/act_contracts_2025.csv
+
+# Narrative Report ONLY
+!reports/
+reports/*
+!reports/report.md
