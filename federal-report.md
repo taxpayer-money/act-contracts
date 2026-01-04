@@ -412,9 +412,36 @@ This is what $97.7 billion in public spending actually looks like.
 
 ---
 
+## 💬 Feedback & Discussion
+
+Found an error? Have insights to share? Want to request analysis?
+
+**Ways to engage:**
+
+1. **GitHub Issues** - [Report errors or suggest improvements](https://github.com/taxpayer-money/australian-government-contracts/issues)
+2. **GitHub Discussions** - [Share insights or ask questions](https://github.com/taxpayer-money/australian-government-contracts/discussions)
+3. **Data Corrections** - Found a discrepancy? Include contract ID for verification
+
+**Found something interesting in the data?**
+- Build on it (CC0 license - no attribution required)
+- Share your analysis - we'd love to see it
+- Tag the repo if you write about it
+
+---
+
+## ⭐ Support This Work
+
+If you find this useful:
+- ⭐ **Star this repo** on GitHub (helps others discover it)
+- 🔄 **Share** with journalists, researchers, policy advocates
+- 📊 **Build on it** - the data is yours to use
+- 🐛 **Report issues** - data quality matters
+
+---
+
 *Analysis completed January 2026*  
 *Data: AusTender Federal Contracts Register 2025*  
 *Analyzed: 64,930 contracts across 21,789 suppliers*
 
-[![Data Source](https://img.shields.io/badge/Data-AusTender-blue)](https://api.tenders.gov.au)
+[![Data Source](https://img.shields.io/badge/Data-AusTender-blue)](https://api.tenders.gov.au) [![GitHub](https://img.shields.io/badge/GitHub-Repository-green)](https://github.com/taxpayer-money/australian-government-contracts)
 [![GitHub](https://img.shields.io/badge/GitHub-taxpayer--money-black)](https://github.com/taxpayer-money)

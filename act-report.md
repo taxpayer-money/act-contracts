@@ -301,8 +301,35 @@ This is what $1.64 billion in public spending actually looks like.
 
 ---
 
+## 💬 Feedback & Discussion
+
+Found an error? Have insights to share? Want to request analysis?
+
+**Ways to engage:**
+
+1. **GitHub Issues** - [Report errors or suggest improvements](https://github.com/taxpayer-money/australian-government-contracts/issues)
+2. **GitHub Discussions** - [Share insights or ask questions](https://github.com/taxpayer-money/australian-government-contracts/discussions)
+3. **Data Corrections** - Found a discrepancy? Include contract number for verification
+
+**Found something interesting in the data?**
+- Build on it (CC0 license - no attribution required)
+- Share your analysis - we'd love to see it
+- Tag the repo if you write about it
+
+---
+
+## ⭐ Support This Work
+
+If you find this useful:
+- ⭐ **Star this repo** on GitHub (helps others discover it)
+- 🔄 **Share** with journalists, researchers, policy advocates
+- 📊 **Build on it** - the data is yours to use
+- 🐛 **Report issues** - data quality matters
+
+---
+
 *Analysis completed January 2026*  
 *Data: ACT Government Contracts Register 2025*
 
-[![Data Source](https://img.shields.io/badge/Data-ACT_Government-blue)](https://data.act.gov.au)
+[![Data Source](https://img.shields.io/badge/Data-ACT_Government-blue)](https://data.act.gov.au) [![GitHub](https://img.shields.io/badge/GitHub-Repository-green)](https://github.com/taxpayer-money/australian-government-contracts)
 [![Made with Mermaid](https://img.shields.io/badge/Visualized-Mermaid-ff69b4)](https://mermaid.js.org/)
