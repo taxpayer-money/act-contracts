@@ -28,7 +28,7 @@ reports/*
 !reports/federal_procurement_2025_final.md
 
 # Local scripts and docs (not committed)
-# design.md - local only
+design.md
 # generate_profile_report.py - local only
 # generate_sweetviz_report.py - local only
 # scrape_austender_2025.py - local only
