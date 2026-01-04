@@ -15,11 +15,15 @@
 !data/
 data/*
 !data/act_contracts_2025.csv
+!data/austender_2025_contracts.csv
 
 # Narrative Report ONLY
 !reports/
 reports/*
 !reports/report.md
 
-# Design doc (local only - not committed)
-!design.md
+# Local scripts and docs (not committed)
+# design.md - local only
+# generate_profile_report.py - local only
+# generate_sweetviz_report.py - local only
+# scrape_austender_2025.py - local only
