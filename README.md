@@ -50,10 +50,10 @@ This repository contains publicly available contract data from AusTender (Federa
 - Top 100 suppliers control $60.54B (62.0% of total)
 - 21,789 suppliers compete, but market highly concentrated
 
-**Employment Services Industry** ($13.20B, 13.5% of federal spending):
+**Employment Services Industry** ($12.0B, 12.3% of federal spending):
 - Top 5 providers: Serendipity ($1.40B), Atwork ($1.19B), Sureway ($0.91B)
 - 30 mega-contracts control 60% of employment services value
-- Department of Social Services: $11.89B (90% of employment spending)
+- Department of Social Services: $11.89B (99% of employment spending)
 
 **Geographic Distribution**:
 - NSW: $34.06B (34.9%) - Sydney dominates

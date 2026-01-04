@@ -283,7 +283,7 @@ Abstract billions don't register emotionally. Here's what $97.7 billion actually
 **Comparative scale:**
 - Total federal procurement ($97.7B) = 14% of entire federal budget (~$700B)
 - Defence procurement ($49B) = More than Australia spends on higher education annually
-- Employment services ($12.3B) = More than federal spending on arts, ABC, SBS combined
+- Employment services ($12.0B) = More than federal spending on arts, ABC, SBS combined
 
 **If federal procurement was a year:**
 - January 1 - June 30: Defence spending ($49B)
@@ -291,7 +291,7 @@ Abstract billions don't register emotionally. Here's what $97.7 billion actually
 
 **Individual contract scale:**
 - Spotless contract ($3.69B) = 3.78% of all federal procurement
-- Employment services ($12.34B) = 12.63% of all spending
+- Employment services ($11.89B) = 12.17% of all spending
 - Top 4 consulting firms (~$375M) = 0.38% of spending
 
 These numbers represent public money flowing to private companies for services government has chosen not to deliver directly.
@@ -337,7 +337,7 @@ After analyzing all 64,930 contracts, several patterns emerge:
 
 **Two fundamentally different business models coexist.** Some suppliers chase decade-defining mega-deals (Spotless's $3.69B). Others accumulate hundreds of smaller contracts (Thales's 474 wins). Both strategies generate substantial revenue. They operate on completely different scales but serve the same system.
 
-**Government has largely outsourced operational services.** Facility services ($9.2B), property management ($3.6B), employment programs ($12.3B), IT platforms ($2.5B+). Private companies now deliver services government once provided directly. Whether this represents efficiency or loss of capability depends on perspective.
+**Government has largely outsourced operational services.** Facility services ($9.2B), property management ($3.6B), employment programs ($12.0B), IT platforms ($2.5B+). Private companies now deliver services government once provided directly. Whether this represents efficiency or loss of capability depends on perspective.
 
 **Repeat business dominates.** Once established with agencies, suppliers win repeatedly. The highest-volume winner secured 474 contracts. Multiple suppliers won 100+ contracts each. Breaking into federal procurement is difficult. Staying in appears substantially easier.
 

@@ -31,7 +31,7 @@ Where federal money went in 2025. Analysis of supplier concentration, mega-deals
 **Key Findings:**
 - Top 20 suppliers control 34.6% ($33.83B)
 - 151 mega-contracts over $100M = 56.5% of total value
-- Employment services: $13.2B dominated by 5 providers
+- Employment services: $12.0B dominated by 5 providers
 - Defence: $49.09B (50% of federal spending)
 - 57.7% of contracts are limited tenders
 
