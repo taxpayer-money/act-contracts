@@ -11,6 +11,9 @@
 !act-report.md
 !federal-report.md
 !_config.yml
+!_layouts/
+_layouts/*
+!_layouts/default.html
 
 # 2025 Data ONLY
 !data/
