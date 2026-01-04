@@ -21,11 +21,8 @@ data/*
 !data/act_contracts_2025.csv
 !data/austender_2025_contracts.csv
 
-# Narrative Reports
-!reports/
-reports/*
-!reports/report.md
-!reports/federal_procurement_2025_final.md
+# Reports folder (local only, not committed)
+reports/
 
 # Local scripts and docs (not committed)
 design.md
