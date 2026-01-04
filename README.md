@@ -2,7 +2,11 @@
 
 **Comprehensive datasets and insights on Australian Federal and ACT Government contracts 2025**
 
-This repository contains publicly available contract data from AusTender (Federal) and the ACT Government Tenders Portal, along with detailed analysis revealing spending patterns, supplier concentration, and procurement transparency.
+This repository contains publicly available contract data from AusTender (Federal) and the ACT Government Tenders Portal, along with detailed narrative analysis revealing spending patterns, supplier concentration, and procurement transparency.
+
+**🌐 Live Site**: [https://taxpayer-money.github.io/australian-government-contracts/](https://taxpayer-money.github.io/australian-government-contracts/)
+
+**Total Public Data**: $99.33 billion across 66,226 contracts
 
 ---
 
@@ -62,15 +66,15 @@ This repository contains publicly available contract data from AusTender (Federa
 
 ### ACT Government
 
-**[Inside $1.64 Billion: The Story of ACT Government Spending in 2025](reports/report.md)**
-
-A narrative-driven analysis revealing the hidden patterns in government procurement.
-
 **Key Findings**:
 - Top 2 suppliers control 43% of 2025 market with just 2 contracts
 - October 2025 saw $604M in contracts - 10x quiet months
 - Multi-year contracts average 13.9x more valuable than single-year
 - 826 contracts (63.7%) under $200K - accessible to SMEs
+
+**[Read Full ACT Report →](https://taxpayer-money.github.io/australian-government-contracts/act-report.html)**
+
+**[Read Full Federal Report →](https://taxpayer-money.github.io/australian-government-contracts/federal-report.html)**
 
 ---
 
@@ -179,15 +183,21 @@ See [LICENSE](LICENSE) for details.
 
 Found an issue with the data? Have suggestions for additional analysis?
 
-Please open an issue or submit a pull request.
+- **Report Issues**: [GitHub Issues](https://github.com/taxpayer-money/australian-government-contracts/issues)
+- **Data Corrections**: Please include contract ID and source for verification
+- **Analysis Suggestions**: Open an issue with your proposed analysis
 
 ---
 
 ## ⚠️ Disclaimer
 
-This is an independent analysis of publicly available data. It is not affiliated with or endorsed by the ACT Government.
+This is an independent analysis of publicly available data. It is not affiliated with or endorsed by any Australian government agency.
 
-Data accuracy depends on the source portal. While we strive for accuracy, please verify critical information with official sources.
+Data accuracy depends on the source portals. While we strive for accuracy, please verify critical information with official sources.
+
+**Contract Verification**: Any contract can be verified on the official portals:
+- Federal: [AusTender](https://www.tenders.gov.au/) (search by contract ID)
+- ACT: [ACT Tenders Portal](https://www.tenders.act.gov.au/contract/search)
 
 ---
 
