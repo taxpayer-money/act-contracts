@@ -11,7 +11,7 @@ I analyzed every contract to see where the money actually went. Here's what I fo
 Twenty companies captured $33.83 billion - nearly the same amount as the remaining 21,769 suppliers combined.
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#dc2626','primaryTextColor':'#fff'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#dc2626','primaryTextColor':'#1e293b'}}}%%
 pie title "Market Share: 20 Companies vs Everyone Else"
     "Top 20 companies" : 34.6
     "Remaining 21,769 suppliers" : 65.4
@@ -20,7 +20,7 @@ pie title "Market Share: 20 Companies vs Everyone Else"
 But the real concentration emerges when you look at contract size. Just 151 contracts over $100 million captured 56.5% of all spending - more than half the total market.
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#0891b2','primaryTextColor':'#fff'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#0891b2','primaryTextColor':'#1e293b'}}}%%
 graph TD
     A[64,930 Contracts = $97.7B] --> B[151 mega-deals over $100M<br/>0.2% of contracts<br/>$55.2B = 56.5%]
     A --> C[745 large $10M-100M<br/>1.1% of contracts<br/>$20.9B = 21.4%]
@@ -62,7 +62,7 @@ Neither approach is superior. They're fundamentally different business models op
 Before diving deeper into the patterns, there's an obvious fact: the Department of Defence spent $49.09 billion across 25,216 contracts - exactly half of all federal procurement.
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1e40af','primaryTextColor':'#fff'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1e40af','primaryTextColor':'#1e293b'}}}%%
 pie title "The 50/50 Split"
     "Defence: $49.09B (submarines, aircraft, weapons, bases)" : 50.25
     "Everything Else: $48.61B (health, employment, infrastructure, services)" : 49.75
@@ -101,7 +101,7 @@ This is fundamentally different from Defence, which awarded 25,216 smaller contr
 Ever wondered who maintains government buildings, runs call centers, or manages Defence bases?
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#7c3aed','primaryTextColor':'#fff'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#7c3aed','primaryTextColor':'#1e293b'}}}%%
 graph LR
     A[Federal Spending] --> B[Facility Services<br/>$9.2B]
     A --> C[Property Management<br/>$3.6B]
@@ -186,7 +186,7 @@ These are often project-based needs requiring specialized expertise government d
 Looking at agencies reveals different procurement behaviors:
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#059669','primaryTextColor':'#fff'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#059669','primaryTextColor':'#1e293b'}}}%%
 graph TD
     A[$97.7B Total Federal Procurement] --> B[Defence: $49.09B<br/>25,216 contracts<br/>Avg: $1.95M]
     A --> C[Social Services: $12.34B<br/>336 contracts<br/>Avg: $36.7M]
@@ -215,7 +215,7 @@ The procurement system isn't uniform. It varies dramatically by agency mission a
 Federal procurement doesn't distribute evenly across Australia.
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#ea580c','primaryTextColor':'#fff'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#ea580c','primaryTextColor':'#1e293b'}}}%%
 pie title "Where Suppliers Are Located"
     "NSW: $34.06B" : 34.9
     "VIC: $23.73B" : 24.3
